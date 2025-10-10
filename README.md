@@ -8,17 +8,21 @@ O objetivo é criar uma solução de software livre e de código aberto para a g
 
 A iniciativa busca aplicar os conhecimentos adquiridos em sala de aula para resolver um problema real da comunidade, fortalecendo a relação entre a universidade e a sociedade.
 
+
+
 # ✨ Funcionalidades (Atuais e Futuras)
 O sistema foi projetado para ser modular e intuitivo, oferecendo as seguintes funcionalidades:
+
+
 
 # Gestão de Atendimentos
 Cadastro de Tutores e Pacientes: Mantenha um registro completo dos animais e seus responsáveis.
 
-# Prontuário Eletrônico: Histórico detalhado de consultas, exames, vacinas e procedimentos.
+## Prontuário Eletrônico: Histórico detalhado de consultas, exames, vacinas e procedimentos.
 
-# Agenda de Consultas: Agendamento de consultas, retornos e outros procedimentos de forma organizada.
+## Agenda de Consultas: Agendamento de consultas, retornos e outros procedimentos de forma organizada.
 
-# Gestão Clínica
+## Gestão Clínica
 
 **Controle de Vacinação**: Registro de vacinas aplicadas e agendamento das próximas doses com envio de lembretes.
 
@@ -26,7 +30,7 @@ Cadastro de Tutores e Pacientes: Mantenha um registro completo dos animais e seu
 
 **Cadastro de Exames**: Anexe resultados de exames laboratoriais e de imagem ao prontuário do paciente.
 
-# Gestão Administrativa
+## Gestão Administrativa
 **Controle Financeiro**: Registro de pagamentos, controle de contas a pagar e a receber.
 
 **Gestão de Estoque**: Controle de medicamentos e produtos, com alertas de estoque baixo.
