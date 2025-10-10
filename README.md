@@ -1,4 +1,4 @@
-# Aplicativo para Clínicas Veterinárias - Uniso - Extensão Universitártia
+# Aplicativo para Clínicas Veterinárias - Uniso - Extensão Universitária
 
 
 # 📖 Sobre o Projeto
