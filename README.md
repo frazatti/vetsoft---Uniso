@@ -2,7 +2,9 @@
 
 
 # 📖 Sobre o Projeto
-Este é um projeto de **Extensão Universitária da Universidade de Sorocaba (Uniso)**, desenvolvido por alunos e pelo **Prof. Alex Frazatti** dos cursos de **CDI - "Ciência de Dados e Inteligência Artificial"** e **ADS - "Análise de Desenvolvimento de Sistemas"**. O objetivo é criar uma solução de software livre e de código aberto para a gestão de clínicas veterinárias de pequeno e médio porte, com foco em otimizar a rotina de trabalho dos profissionais e melhorar o atendimento aos animais e seus tutores.
+Este é um projeto de **Extensão Universitária da Universidade de Sorocaba (Uniso)**, desenvolvido por alunos e pelo **Prof. Alex Frazatti** dos cursos de **CDI - "Ciência de Dados e Inteligência Artificial"** e **ADS - "Análise de Desenvolvimento de Sistemas"**. 
+
+O objetivo é criar uma solução de software livre e de código aberto para a gestão de clínicas veterinárias de pequeno e médio porte, com foco em otimizar a rotina de trabalho dos profissionais e melhorar o atendimento aos animais e seus tutores.
 
 A iniciativa busca aplicar os conhecimentos adquiridos em sala de aula para resolver um problema real da comunidade, fortalecendo a relação entre a universidade e a sociedade.
 
