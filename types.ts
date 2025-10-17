@@ -32,8 +32,33 @@ export interface Appointment {
   status: AppointmentStatus;
 }
 
+export enum InventoryCategory {
+  FOOD = 'Ração',
+  HYGIENE = 'Higiene e Banho',
+  MEDICINE = 'Medicamentos',
+  ACCESSORIES = 'Acessórios'
+}
+
+export enum InventoryUnit {
+  KG = 'kg',
+  L = 'L',
+  UNIT = 'un'
+}
+
+export interface InventoryItem {
+  id: string;
+  name: string;
+  category: InventoryCategory;
+  quantity: number;
+  unit: InventoryUnit;
+  supplier: string;
+  lastPurchaseDate: string; // ISO string format
+  lowStockThreshold: number;
+}
+
 export enum Page {
   Dashboard = 'Dashboard',
   Clients = 'Clientes',
   Appointments = 'Agendamentos',
+  Inventory = 'Estoque',
 }
